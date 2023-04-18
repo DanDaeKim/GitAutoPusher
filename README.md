@@ -1,5 +1,5 @@
 # GitAutoPusher
-GitAutoPusher is a Python tool that automatically scans GitHub repositories, analyzes code using the GPT API, filters efficiency improvement suggestions, and generates reports for each repository. The goal of this tool is to help developers identify potential areas for optimization and improve the overall performance of their code.
+GitAutoPusher is a Python tool that automatically scans GitHub repositories, analyzes code using the GPT API, filters efficiency improvement suggestions, and generates reports for each repository. The goal of this tool is to help developers identify potential areas for optimization and improve the overall performance of their code, which has several implications. Most apparently, this will cut down on dev-time for many different projects, professional or otherwise. Less apparently, inefficient code leads to higher energy costs and emissions, meaning there is carbon-decreasing potential with this project. 
 
 Requirements
 - Python 3.6 or higher
@@ -39,7 +39,7 @@ The Code Efficiency Analyzer consists of several modules:
 - main.py: Integrates all modules and runs the end-to-end process.
 
 Contributing
-Contributions to the Code Efficiency Analyzer are welcome. If you find a bug, have a feature request, or want to improve the code or documentation, please feel free to submit an issue or a pull request on GitHub.
+Contributions to the GitAutoPusher are welcome. If you find a bug, have a feature request, or want to improve the code or documentation, please feel free to submit an issue or a pull request.
 
 
 
