@@ -43,7 +43,9 @@ def factorial(n):
         return n * factorial(n - 1)
 """,
     ]
-
+    # will need to input
     suggestions = analyze_code(gpt_client, sample_code_files)
     for i, suggestion in enumerate(suggestions, start=1):
         print(f"Suggestions for code file {i}:\n{suggestion}\n")
+
+        
