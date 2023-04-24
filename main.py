@@ -34,3 +34,5 @@ def main(username: str):
 if __name__ == "__main__":
     username = "your-github-username"
     main(username)
+
+    # will need to continue polishing
